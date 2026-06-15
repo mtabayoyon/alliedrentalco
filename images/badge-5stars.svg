@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80">
+<rect width="160" height="80" rx="6" fill="#003262"/>
+<text x="80" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#99b8d4">CUSTOMER RATING</text>
+<text x="19" y="52" font-family="Arial,sans-serif" font-size="32" fill="#FFD700">★</text>
+<text x="47" y="52" font-family="Arial,sans-serif" font-size="32" fill="#FFD700">★</text>
+<text x="75" y="52" font-family="Arial,sans-serif" font-size="32" fill="#FFD700">★</text>
+<text x="103" y="52" font-family="Arial,sans-serif" font-size="32" fill="#FFD700">★</text>
+<text x="131" y="52" font-family="Arial,sans-serif" font-size="32" fill="#FFD700">★</text>
+<text x="80" y="68" text-anchor="middle" font-family="Arial Black,sans-serif" font-size="9" font-weight="900" fill="#ffffff">4.9 / 5.0 · 87+ REVIEWS</text>
+</svg>

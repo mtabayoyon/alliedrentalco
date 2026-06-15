@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+<rect width="400" height="280" fill="#1a1200"/>
+<polygon points="200,40 330,130 70,130" fill="#4d3800" stroke="#8b6400" stroke-width="2"/>
+<rect x="100" y="130" width="200" height="110" fill="#3d2d00" stroke="#8b6400" stroke-width="1.5"/>
+<rect x="155" y="175" width="40" height="65" rx="2" fill="#2d2000" stroke="#8b6400" stroke-width="1"/>
+<rect x="210" y="155" width="50" height="45" rx="2" fill="#2d2000" stroke="#8b6400" stroke-width="1"/>
+<line x1="200" y1="40" x2="200" y2="130" stroke="#8b6400" stroke-width="1.5" opacity="0.5"/>
+<line x1="160" y1="240" x2="240" y2="240" stroke="#8b6400" stroke-width="2" opacity="0.6"/>
+<rect x="340" y="150" width="12" height="60" rx="2" fill="#cc8800" opacity="0.8"/>
+<rect x="328" y="148" width="36" height="8" rx="2" fill="#cc8800" opacity="0.6"/>
+<circle cx="346" cy="148" r="4" fill="#ffaa00" opacity="0.9"/>
+<rect x="30" y="160" width="40" height="10" rx="2" fill="#8b6400" opacity="0.5" transform="rotate(-30 30 160)"/>
+<rect x="40" y="178" width="40" height="10" rx="2" fill="#8b6400" opacity="0.5" transform="rotate(15 40 178)"/>
+</svg>

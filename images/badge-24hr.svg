@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 80">
+<rect width="130" height="80" rx="6" fill="#8B1A0A"/>
+<text x="65" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#ffaaaa" letter-spacing="1">EMERGENCY</text>
+<text x="65" y="46" text-anchor="middle" font-family="Arial Black,sans-serif" font-size="30" font-weight="900" fill="#ffffff">24/7</text>
+<line x1="20" y1="52" x2="110" y2="52" stroke="#cc4433" stroke-width="0.5"/>
+<text x="65" y="63" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#ffaaaa">RESPONSE</text>
+<text x="65" y="73" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#ffaaaa">60-MIN ARRIVAL</text>
+</svg>

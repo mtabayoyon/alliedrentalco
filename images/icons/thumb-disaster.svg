@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+<rect width="400" height="280" fill="#0d0d1a"/>
+<rect x="0" y="200" width="400" height="80" fill="#0a0a14"/>
+<polygon points="200,30 230,30 220,60 250,55 185,120 195,80 165,85" fill="#ffdd00" opacity="0.9"/>
+<circle cx="200" cy="145" r="45" fill="none" stroke="#ffdd00" stroke-width="1.5" opacity="0.2"/>
+<circle cx="200" cy="145" r="35" fill="none" stroke="#ffdd00" stroke-width="1" opacity="0.3"/>
+<rect x="60" y="185" width="50" height="45" rx="3" fill="#1a1a2e" stroke="#333355" stroke-width="1"/>
+<rect x="70" y="165" width="30" height="25" rx="2" fill="#1a1a2e" stroke="#333355" stroke-width="1"/>
+<rect x="130" y="175" width="60" height="55" rx="3" fill="#1a1a2e" stroke="#333355" stroke-width="1"/>
+<rect x="140" y="155" width="40" height="25" rx="2" fill="#1a1a2e" stroke="#333355" stroke-width="1"/>
+<rect x="210" y="180" width="55" height="50" rx="3" fill="#1a1a2e" stroke="#333355" stroke-width="1"/>
+<rect x="285" y="188" width="50" height="42" rx="3" fill="#1a1a2e" stroke="#333355" stroke-width="1"/>
+<rect x="295" y="170" width="30" height="22" rx="2" fill="#1a1a2e" stroke="#333355" stroke-width="1"/>
+<line x1="0" y1="230" x2="400" y2="230" stroke="#333355" stroke-width="1" opacity="0.5"/>
+<path d="M0 230 Q40 218 80 225 Q120 232 160 225 Q200 218 240 225 Q280 232 320 225 Q360 218 400 225" fill="none" stroke="#1a3a5c" stroke-width="2" opacity="0.6"/>
+</svg>

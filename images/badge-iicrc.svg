@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 80">
+<rect width="140" height="80" rx="6" fill="#003262"/>
+<text x="70" y="22" text-anchor="middle" font-family="Arial Black,sans-serif" font-size="22" font-weight="900" fill="#ffffff">IICRC</text>
+<text x="70" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#99b8d4" letter-spacing="1">CERTIFIED FIRM</text>
+<line x1="20" y1="44" x2="120" y2="44" stroke="#4a7aaa" stroke-width="0.5"/>
+<text x="70" y="54" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#99b8d4">Institute of Inspection</text>
+<text x="70" y="63" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#99b8d4">Cleaning &amp; Restoration</text>
+<text x="70" y="73" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#99b8d4">Certification</text>
+</svg>
