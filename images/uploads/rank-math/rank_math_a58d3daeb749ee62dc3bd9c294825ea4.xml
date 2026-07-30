@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.alliedrentalco.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.alliedrentalco.com/testimonial/</loc>
+		<lastmod>2017-10-17T16:38:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.alliedrentalco.com/testimonial/client-name-1/</loc>
+		<lastmod>2017-10-17T16:38:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.alliedrentalco.com/testimonial/client-name-2/</loc>
+		<lastmod>2017-10-17T16:37:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.alliedrentalco.com/testimonial/client-name-3/</loc>
+		<lastmod>2017-10-17T16:37:01+00:00</lastmod>
+	</url>
+</urlset>
