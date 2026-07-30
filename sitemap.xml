@@ -47,6 +47,8 @@
   <url><loc>https://www.alliedrentalco.com/product-category/compaction/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/product-category/sound-barriers/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/product-category/dry-ice/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/product-category/forklifts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.alliedrentalco.com/product-category/water-damage-restoration-equipment-2/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/product/15000-cfm-desicant-dehumidifier/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/product/5000-cfm-desicant-dehumidifer/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/product/carpet-cleaners-san-francisco-san-rafael-petaluma-marin/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
@@ -205,8 +207,6 @@
   <url><loc>https://www.alliedrentalco.com/product/200kw-diesel-generator-rental/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/product/250kw-diesel-generator-rental-copy/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/product/320kw-diesel-generator-rental-copy-2/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://www.alliedrentalco.com/product-category/forklifts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://www.alliedrentalco.com/product-category/water-damage-restoration-equipment-2/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/shop/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.alliedrentalco.com/shop/dry-ice/dry-ice-pellets-sales/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/fuel-delivery-service/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
