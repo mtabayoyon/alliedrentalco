@@ -479,5 +479,7 @@
   <url><loc>https://www.alliedrentalco.com/temporary-cooling-calculator/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.alliedrentalco.com/tools/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.alliedrentalco.com/equipment-finder/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.alliedrentalco.com/air-changes-per-hour-calculator/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/hepa-air-scrubbers-for-smoke-and-wildfire/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.alliedrentalco.com/sitemap/</loc><changefreq>weekly</changefreq><priority>0.4</priority></url>
 </urlset>
