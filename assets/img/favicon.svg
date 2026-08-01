@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#003362"/>
+<!-- five-point star (white) -->
+<path fill="#ffffff" d="M256 96 L300 214 L424 214 L324 288 L362 408 L256 334 L150 408 L188 288 L88 214 L212 214 Z"/>
+<!-- red triangle accent bottom-left of star -->
+<path fill="#FE0000" d="M150 408 L256 334 L256 408 Z"/>
+</svg>
