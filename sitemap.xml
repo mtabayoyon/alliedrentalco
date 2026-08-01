@@ -12,8 +12,8 @@
   <url><loc>https://www.alliedrentalco.com/dehumidification-construction-restoration/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/dehumidification-for-agriculture/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/dehumidification-food-storage-processing/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://www.alliedrentalco.com/gypcrete-drying/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/dehumidification-painting-coatings/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/gypcrete-drying/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/product-category/dehumidification/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/product-category/commercial-drying-equipment/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/product-category/temporary-air-conditioners/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -212,7 +212,7 @@
   <url><loc>https://www.alliedrentalco.com/diesel-generator-fuel-consumption-rates-by-load/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/generator-sizing-calculator/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/what-size-dehumidifier-do-i-need-for-my-project/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://www.alliedrentalco.com/case-study-pabco-gypsum/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.alliedrentalco.com/case-study-pabco-gypsum/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/matterport-virtual-tour-creation-virtual-takeoff-services/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/contact/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.alliedrentalco.com/blog/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -461,5 +461,23 @@
   <url><loc>https://www.alliedrentalco.com/equipment-rental-south-san-francisco-ca/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/equipment-rental-daly-city-ca/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/service-areas/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-operate-a-diesel-generator/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-use-a-desiccant-dehumidifier/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-use-an-air-mover/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-use-a-hepa-air-scrubber/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-operate-a-dry-ice-blaster/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-use-a-water-extractor/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-operate-a-temporary-heater/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-use-a-portable-air-conditioner/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-use-an-ozone-or-hydroxyl-generator/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-operate-a-plate-compactor-or-rammer/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-set-up-sound-barriers/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/how-to-use-a-vacuum-excavator/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/guides/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/air-mover-air-scrubber-calculator/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/heater-btu-calculator/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/temporary-cooling-calculator/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/tools/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.alliedrentalco.com/equipment-finder/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.alliedrentalco.com/sitemap/</loc><changefreq>weekly</changefreq><priority>0.4</priority></url>
 </urlset>

@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg">
+<link rel="icon" type="image/svg+xml" href="../assets/img/favicon-boxed.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="../assets/img/favicon-16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="../assets/img/favicon-180.png">
@@ -80,9 +80,9 @@ footer.site a{color:#aeb9c4}footer.site a:hover{color:#fff}
 .blogbody ul,.blogbody ol{padding-left:1.25em}.blogbody li{margin:.35em 0}.blogbody a{color:var(--steel-2);font-weight:600}.blogbody p{margin:0 0 1rem}
 header.site{position:sticky;top:0;z-index:60;background:#fff}
 .nav-top{background:#fff;border-bottom:1px solid var(--line)}
-.nav-top-in{display:flex;align-items:center;gap:18px;padding:12px 22px;max-width:var(--maxw);margin:0 auto}
+.nav-top-in{display:flex;align-items:center;gap:18px;padding:10px 22px;max-width:var(--maxw);margin:0 auto}
 .nav-top-in .brand{margin-right:auto}
-svg.logo-img{height:44px;width:auto;display:block}.foot-logo{height:46px;width:auto}svg.foot-logo{height:46px;width:auto}
+svg.logo-img{height:56px;width:auto;display:block}.foot-logo{height:46px;width:auto}svg.foot-logo{height:46px;width:auto}
 .menu{list-style:none;margin:0;padding:0;display:flex;align-items:center;gap:4px}.menu-top{gap:2px}
 .menu-top>li>a{color:var(--ink);font-weight:600;font-size:.83rem;padding:8px 11px;border-radius:5px;display:inline-flex;align-items:center;gap:4px;white-space:nowrap}
 .menu-top>li>a:hover{color:var(--steel);background:#f1ede3;text-decoration:none}
@@ -155,6 +155,48 @@ svg.logo-img{height:44px;width:auto;display:block}.foot-logo{height:46px;width:a
 .feat-card .btn:hover{background:var(--steel-2)}
 @media(max-width:880px){.featured-row .grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:520px){.featured-row .grid{grid-template-columns:1fr}}
+
+/* ---- Equipment guides ---- */
+.guide-warning{background:#fff4e6;border-left:4px solid #d97706;border-radius:0 6px 6px 0;padding:14px 18px;font-size:.95rem;color:#7a4a08}
+.guide-safety{background:#fef2f2;border:1px solid #fecaca;border-radius:8px;padding:20px 24px;margin:24px 0}
+.guide-safety h2{color:#b91c1c;font-size:1.15rem;margin:0 0 12px}
+.guide-safety ul{margin:0;padding-left:1.2em}.guide-safety li{margin:.4em 0;color:#7f1d1d}
+.guide-steps{display:flex;flex-direction:column;gap:18px;margin:18px 0}
+.guide-step{display:flex;gap:16px;align-items:flex-start;background:#fff;border:1px solid var(--line);border-radius:8px;padding:18px 20px;box-shadow:var(--shadow)}
+.guide-step-n{flex:none;width:34px;height:34px;border-radius:50%;background:var(--steel);color:#fff;font-family:var(--display);font-weight:800;display:grid;place-items:center}
+.guide-step h3{margin:0 0 4px;font-size:1.08rem}.guide-step p{margin:0;color:var(--ink-soft);font-size:.95rem}
+.guide-related{margin-top:30px;background:#f1ede3;border-radius:8px;padding:20px 24px}
+.guide-related h2{font-size:1.1rem;margin:0 0 10px}.guide-related ul{margin:0;padding-left:1.2em}.guide-related li{margin:.35em 0}
+
+/* ---- Sizing calculators ---- */
+.calc-card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:26px;box-shadow:var(--shadow);margin:22px 0}
+.calc-card label{display:block;font-weight:600;font-size:.9rem;color:var(--ink);margin:12px 0 4px}
+.calc-card input,.calc-card select{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:6px;font-size:1rem;font-family:inherit;background:#fff}
+.calc-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+.calc-row label{margin-top:0}
+.calc-card .btn{margin-top:18px;width:100%;text-align:center}
+.calc-out{margin-top:20px;padding-top:20px;border-top:2px solid var(--line)}
+.calc-result-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.calc-stat{background:#f1ede3;border-radius:8px;padding:14px 16px}
+.calc-stat span{display:block;font-size:.8rem;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.5px}
+.calc-stat b{display:block;font-family:var(--display);font-size:1.5rem;color:var(--steel);margin-top:2px}
+.calc-note{font-size:.85rem;color:var(--ink-soft);margin-top:14px;font-style:italic}
+@media(max-width:560px){.calc-row{grid-template-columns:1fr}.calc-result-grid{grid-template-columns:1fr}}
+
+/* ---- Equipment wizard ---- */
+.wiz-card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:32px 28px;box-shadow:var(--shadow);margin:22px 0;min-height:260px}
+.wiz-q{font-family:var(--display);font-weight:700;font-size:1.35rem;color:var(--ink);margin:0 0 20px;line-height:1.25}
+.wiz-opts{display:flex;flex-direction:column;gap:10px}
+.wiz-opt{text-align:left;background:#f7f5ef;border:1px solid var(--line);border-radius:8px;padding:15px 18px;font-size:1.02rem;font-family:inherit;color:var(--ink);cursor:pointer;transition:all .15s}
+.wiz-opt:hover{background:var(--steel);color:#fff;border-color:var(--steel);transform:translateX(3px)}
+.wiz-back{margin-top:18px;background:none;border:none;color:var(--ink-soft);font-size:.9rem;cursor:pointer;font-family:inherit;padding:6px 0}
+.wiz-back:hover{color:var(--steel)}
+.wiz-result{animation:wizfade .3s ease}
+@keyframes wizfade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.wiz-reclabel{text-transform:uppercase;letter-spacing:1px;font-size:.8rem;color:var(--red);font-weight:700;margin:0 0 4px}
+.wiz-result h2{font-family:var(--display);font-size:1.6rem;color:var(--steel);margin:0 0 10px}
+.wiz-links{background:#f1ede3;border-radius:8px;padding:16px 20px 16px 38px;margin:18px 0}
+.wiz-links li{margin:.4em 0}
 </style><script type="application/ld+json">{"@context": "https://schema.org", "@type": "LocalBusiness", "@id": "https://www.alliedrentalco.com/#business", "name": "Allied Rental Company LLC", "image": "https://www.alliedrentalco.com/assets/img/og-default.png", "url": "https://www.alliedrentalco.com/", "telephone": "(415) 644-5792", "email": "info@alliedrentalco.com", "priceRange": "$$", "address": {"@type": "PostalAddress", "streetAddress": "15 Copeland St", "addressLocality": "Petaluma", "addressRegion": "CA", "postalCode": "94952", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": "38.2324", "longitude": "-122.6367"}, "areaServed": ["San Francisco Bay Area", "Marin County", "Sonoma County", "Napa County", "Petaluma", "San Rafael", "Novato", "Oakland", "San Jose", "Northern California"], "openingHoursSpecification": {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "07:00", "closes": "17:00"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "How Much Does Temporary Power Equipment in San Francisco Cost?", "datePublished": "2017-10-15", "dateModified": "2017-10-15", "author": {"@type": "Organization", "name": "alliedr_admin"}, "publisher": {"@type": "Organization", "name": "Allied Rental Company LLC", "logo": {"@type": "ImageObject", "url": "https://www.alliedrentalco.com/assets/img/allied-logo.svg"}}, "image": "https://www.alliedrentalco.com/assets/img/og-default.png", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.alliedrentalco.com/how-much-does-temporary-power-equipment-in-san-francisco-cost/"}, "description": "Popular Mechanics reports that in 2011, storms across the United States caused 21 million people to experience power interruptions of longer than 24 hours. With that in mind, keepi"}</script></head><body>
 <div class="util"><div class="wrap"><span>Allied Rental Company LLC — Equipment Rentals, San Francisco Bay Area</span><span><a class="tel" href="tel:+14156445792">(415) 644-5792</a> · <a href="https://allied-rental.pointofrentalcloud.com/portal/">Reserve Online</a></span></div></div>
@@ -186,7 +228,7 @@ svg.logo-img{height:44px;width:auto;display:block}.foot-logo{height:46px;width:a
 283 120 155 253 327 296 382 43 55 78 102 78 105 0 5 -466 121 -480 120 -3 -1
 -42 -49 -87 -108z"/><path fill="#FE0000" d="M2441 3227 l-474 -272 397 -3 c218 -1 574 -1 791 0 l396 3 -277 240
 c-152 132 -293 255 -313 272 -20 18 -38 33 -41 33 -3 0 -218 -123 -479 -273z"/></g></svg></a>
-    <ul class="menu menu-top"><li><a href="../contact/index.html">Contact</a></li><li><a href="../shop/index.html">Equipment</a></li><li><a href="../blog/index.html">Blog</a></li><li class="has-sub"><a href="../dehumidification-applications/index.html">Dehumidification Applications<span class="caret">▾</span></a><ul class="submenu"><li><a href="../dehumidification-construction-restoration/index.html">Construction &amp; Restoration</a></li><li><a href="../dehumidification-for-agriculture/index.html">Agriculture</a></li><li><a href="../dehumidification-food-storage-processing/index.html">Food Storage &amp; Processing</a></li><li><a href="../gypcrete-drying/index.html">Gypcrete Drying</a></li><li><a href="../dehumidification-painting-coatings/index.html">Painting &amp; Coatings</a></li></ul></li><li><a href="../compare-diesel-generator-sizes-and-specifications/index.html">Diesel Generator Sizes</a></li><li class="has-sub"><a href="../case-study-pabco-gypsum/index.html">Case Studies<span class="caret">▾</span></a><ul class="submenu"><li><a href="../case-study-pabco-gypsum/index.html">Case Study: PABCO Gypsum</a></li></ul></li></ul>
+    <ul class="menu menu-top"><li><a href="../equipment-finder/index.html">Find Equipment</a></li><li><a href="../contact/index.html">Contact</a></li><li><a href="../shop/index.html">Equipment</a></li><li><a href="../blog/index.html">Blog</a></li><li class="has-sub"><a href="../dehumidification-applications/index.html">Dehumidification Applications<span class="caret">▾</span></a><ul class="submenu"><li><a href="../dehumidification-construction-restoration/index.html">Construction &amp; Restoration</a></li><li><a href="../dehumidification-for-agriculture/index.html">Agriculture</a></li><li><a href="../dehumidification-food-storage-processing/index.html">Food Storage &amp; Processing</a></li><li><a href="../gypcrete-drying/index.html">Gypcrete Drying</a></li><li><a href="../dehumidification-painting-coatings/index.html">Painting &amp; Coatings</a></li></ul></li><li><a href="../compare-diesel-generator-sizes-and-specifications/index.html">Diesel Generator Sizes</a></li><li class="has-sub"><a href="../case-study-pabco-gypsum/index.html">Case Studies<span class="caret">▾</span></a><ul class="submenu"><li><a href="../case-study-pabco-gypsum/index.html">Case Study: PABCO Gypsum</a></li></ul></li></ul>
     <a class="btn sm navcall" href="tel:+14156445792">Call (415) 644-5792</a>
     <button class="navtoggle" aria-label="Menu" aria-expanded="false" onclick="document.getElementById('navwrap').classList.toggle('open');this.setAttribute('aria-expanded',document.getElementById('navwrap').classList.contains('open'))">☰</button>
   </div></div>
@@ -241,6 +283,6 @@ If you need <a href="http://alliedrentalco.com/product-category/temporary-power/
 -42 -49 -87 -108z"/><path fill="#FFFFFF" d="M2441 3227 l-474 -272 397 -3 c218 -1 574 -1 791 0 l396 3 -277 240
 c-152 132 -293 255 -313 272 -20 18 -38 33 -41 33 -3 0 -218 -123 -479 -273z"/></g></svg><p>Diesel generators, desiccant dehumidifiers, air filtration, dry ice blasting and climate-control equipment for construction, restoration, agriculture and events across the San Francisco Bay Area.</p><p>15 Copeland St, Petaluma, CA 94952</p><p><a href="tel:+14156445792">(415) 644-5792</a> · <a href="mailto:info@alliedrentalco.com">info@alliedrentalco.com</a></p></div>
   <div><h4>Equipment</h4><ul><li><a href="../compare-diesel-generator-sizes-and-specifications/index.html">Diesel Generators</a></li><li><a href="../dehumidification-applications/index.html">Dehumidification</a></li><li><a href="../product-category/air-scrubber/index.html">Air Filtration</a></li><li><a href="../product-category/dry-ice-blaster/index.html">Dry Ice Blasting</a></li><li><a href="../product-category/temporary-air-conditioners/index.html">Cooling</a></li><li><a href="../product-category/temporaryheaters/index.html">Heaters</a></li><li><a href="../shop/index.html">All Equipment</a></li></ul></div>
-  <div><h4>Resources</h4><ul><li><a href="../generator-sizing-calculator/index.html">Generator Sizing Calculator</a></li><li><a href="../diesel-generator-fuel-consumption-rates-by-load/index.html">Fuel Consumption Rates</a></li><li><a href="../what-size-dehumidifier-do-i-need-for-my-project/index.html">Dehumidifier Sizing</a></li><li><a href="../fuel-delivery-service/index.html">Fuel Delivery</a></li><li><a href="../blog/index.html">Blog</a></li><li><a href="../frequently-asked-questions/index.html">FAQ</a></li></ul></div>
+  <div><h4>Resources</h4><ul><li><a href="../generator-sizing-calculator/index.html">Generator Sizing Calculator</a></li><li><a href="../diesel-generator-fuel-consumption-rates-by-load/index.html">Fuel Consumption Rates</a></li><li><a href="../what-size-dehumidifier-do-i-need-for-my-project/index.html">Dehumidifier Sizing</a></li><li><a href="../fuel-delivery-service/index.html">Fuel Delivery</a></li><li><a href="../guides/index.html">Equipment Guides</a></li><li><a href="../tools/index.html">Sizing Calculators</a></li><li><a href="../blog/index.html">Blog</a></li><li><a href="../frequently-asked-questions/index.html">FAQ</a></li></ul></div>
   <div><h4>Locations</h4><ul><li><a href="../equipment-rental-san-francisco/index.html">San Francisco</a></li><li><a href="../equipment-rental-petaluma/index.html">Petaluma</a></li><li><a href="../equipment-rental-berkeley/index.html">Berkeley</a></li><li><a href="../service-areas/index.html">All Service Areas</a></li></ul><h4 style="margin-top:18px">Company</h4><ul><li><a href="../contact/index.html">Contact</a></li><li><a href="../about-us/index.html">About Us</a></li><li><a href="https://allied-rental.pointofrentalcloud.com/portal/">Reserve Online</a></li><li><a href="../sitemap/index.html">Sitemap</a></li></ul></div>
 </div><div class="foot-bottom">© 2026 Allied Rental Company LLC. All Rights Reserved. · Serving San Francisco, Marin, Sonoma, Napa &amp; the greater Bay Area.</div></footer></body></html>
