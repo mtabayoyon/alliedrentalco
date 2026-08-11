@@ -49,6 +49,10 @@
   <url><loc>https://www.alliedrentalco.com/product-category/dry-ice/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/product-category/forklifts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/product-category/water-damage-restoration-equipment-2/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.alliedrentalco.com/boom-lift-rental/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/scissor-lift-rental/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/forklift-rental/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.alliedrentalco.com/excavator-rental/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.alliedrentalco.com/shop/dehumidification/15000-cfm-desicant-dehumidifier/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/shop/dehumidification/5000-cfm-desicant-dehumidifer/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://www.alliedrentalco.com/shop/commercial-drying-equipment/carpet-cleaners-san-francisco-san-rafael-petaluma-marin/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -415,9 +419,8 @@
   <url><loc>https://www.alliedrentalco.com/what-fuel-can-you-use-to-power-a-temporary-heating-system/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/how-should-you-dehumidify-your-home-desiccant-dehumidifier-rental-faq/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/how-to-optimize-the-efficiency-of-your-temporary-cooling-equipment-in-san-francisco/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://www.alliedrentalco.com/amp-chart/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.alliedrentalco.com/amp-chart/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.alliedrentalco.com/about-us/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://www.alliedrentalco.com/contact-us/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/terms-conditions-policies/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/dry-ice-blasting/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.alliedrentalco.com/dehumidifier-rental-novato/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
